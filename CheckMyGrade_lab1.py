@@ -547,7 +547,7 @@ class TestCheckMyGradeApp(unittest.TestCase):
 
 if __name__ == '__main__':
     # To run unit tests, uncomment the line below:
-    # unittest.main()
+    unittest.main()
     
     # Create an instance of the application and present a CLI menu.
     app = CheckMyGradeApp()
